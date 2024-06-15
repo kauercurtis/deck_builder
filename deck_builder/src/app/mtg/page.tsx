@@ -1,4 +1,5 @@
 import NavBar from "@/components/navBar";
+'use client';
 
 export default function MTG(){
 
